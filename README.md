@@ -5,4 +5,6 @@ The Dual Serial 232 Board (DS232 board) is a redesign of the Micro Innovations D
 
 The file ds232.jed is the JEDEC file required for programming the GAL16V8 chip on the DS232.
 
+The file DualSerial_routed_v3_2020-11-24.zip contains the Gerber files required for PCB fabrication.
+
 NOTE: The DS232 has not been fully tested or validated yet.
